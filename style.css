@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    font-family: 'Myriad Set Pro', Arial, monospace;
+}
+
+body {
+    background-color: hsla(0,0%,0%,0.9);
+}
+
+.title {
+    font-weight: lighter;
+    color: white;
+    font-size: 67pt;
+    display: flex;
+    justify-content: center;
+    margin-top: 260px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: hsla(0, 0%, 0%, 0.78);
+}
